@@ -1,0 +1,106 @@
+[14-Dec-2022 15:32:59 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:32:59 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 131
+[14-Dec-2022 15:39:29 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:39:29 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 131
+[14-Dec-2022 15:41:10 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:41:10 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/hackerlocalx/public_html/socialbot/vendor/composer/platform_check.php on line 24
+[14-Dec-2022 15:44:06 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:44:06 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/hackerlocalx/public_html/socialbot/vendor/composer/platform_check.php on line 24
+[14-Dec-2022 15:49:03 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:04 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:08 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:08 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:09 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:09 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:19 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:20 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:20 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:20 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:21 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:23 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:23 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:23 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:24 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:25 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:49:25 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:49:26 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:03 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:06 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:08 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:10 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:20 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:21 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:22 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:23 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:23 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:23 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:23 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:23 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:24 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:24 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:25 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:25 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:25 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:52:55 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:52:57 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:53:26 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:53:27 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:53:38 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:53:39 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:54:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:54:23 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:54:24 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:54:25 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:54:29 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hackerlocalx/public_html/socialbot/cookieMonster.php on line 1
+[14-Dec-2022 15:54:30 America/New_York] PHP Notice:  Undefined variable: extras in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 126
+[14-Dec-2022 15:56:03 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:20 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:20 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:22 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:30 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:42 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:56:58 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:02 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:04 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:08 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:10 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:27 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:34 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:36 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:36 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:36 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:37 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194
+[14-Dec-2022 15:57:39 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/hackerlocalx/public_html/socialbot/social.bot.php on line 194

