@@ -35,8 +35,16 @@ Using a combination of guzzle,puppeteer,and stripe
 to mass check credit cards using over 15 sk_keys and counting plus so far 34 donation sites 
 we try to add at least two sites weekly to our checkers database 
 
+Malicious Infection Bot
+scans internet for emails to send malicious links and attempts to reverse shell [ Automated Recuiting of Zombies ] +
+with a twilio account you can enable sms and target phone numbers too. Even email a victim directy to their phone 
+using our reverse phone to email lookup api thats built into malicious dashboard.
+
+
 Malicious Engineer 
 Socialbot is the step child to Malicious Engineer, its stripped down to be useable 
 across most hosting services due to most hosting services not supporting PHP ^8.0
 I've taken alot away from this to make it useable for the regular user 
 and make it available for test before I release the Malicious Dashboard GUI.
+
+visit http://hackerlocal.us to buy sniffed creditcards and accounts
